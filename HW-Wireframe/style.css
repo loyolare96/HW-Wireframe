@@ -1,0 +1,107 @@
+body {
+    background-color: gray;
+    color: gray;
+
+}
+
+header {
+    text-align: center;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+
+}
+
+#nav {
+    text-align: center;
+    background-color: white;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    border-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+}
+
+#centerleft {
+    float: left;
+    background-color: white;
+    z-index: 1;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 55px;
+    padding-top: 30px;
+    padding-right: 275px;
+    padding-bottom: 200px;
+    padding-left: 250px;
+
+}
+
+#article {
+    float: left;
+    color: white;
+    background-color: gray;
+    z-index: 2;
+    position: relative;
+    right: 47%;
+    top: 60px;
+    width: 40%;
+    height: 160px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+h1 {
+    background-color: white;
+    float: left;
+    z-index: 3;
+    width: 35%;
+    text-align: center;
+    position: relative;
+    right: 44.5%;
+    bottom: 85px;
+}
+
+h2 {
+    background-color: white;
+    float: left;
+    z-index: 3;
+    height: 39px;
+    width: 35%;
+    text-align: center;
+    position: relative;
+    right: 44.5%;
+    bottom: 100px;
+}
+
+#aside {
+    background-color: white;
+    text-align: center;
+    width: 500px;
+    height: 215px;
+    float: right;
+    margin-top: -333px;
+    padding-top: 35px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 50px;
+    margin-bottom: 0px;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    float: left;
+    height: 30px;
+    width: 92%;
+    padding-top: 25px;
+    margin-left: 55px;
+
+}
